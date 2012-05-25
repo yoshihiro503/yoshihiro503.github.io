@@ -96,7 +96,7 @@ gallina: $(GFILES)
 
 html: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
-	$(COQDOC) --no-index -toc -html $(COQDOCLIBS) -d html $(VFILES)
+	$(COQDOC) -utf8 --no-index --title 'yoshihiro503' -toc -html $(COQDOCLIBS) -d html $(VFILES)
 
 gallinahtml: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
