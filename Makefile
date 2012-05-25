@@ -88,7 +88,7 @@ VIFILES:=$(VFILES:.v=.vi)
 GFILES:=$(VFILES:.v=.g)
 HTMLFILES:=$(VFILES:.v=.html)
 GHTMLFILES:=$(VFILES:.v=.g.html)
-
+COQDOCFLAGS:=-utf8 --no-index --title 'yoshihiro503' --short -toc -html
 all: $(VOFILES) 
 spec: $(VIFILES)
 
@@ -96,7 +96,7 @@ gallina: $(GFILES)
 
 html: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
-	$(COQDOC) -utf8 --no-index --title 'yoshihiro503' -toc -html $(COQDOCLIBS) -d html $(VFILES)
+	$(COQDOC) $(COQDOCFLAGS) $(COQDOCLIBS) -d html $(VFILES)
 
 gallinahtml: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
