@@ -175,11 +175,6 @@ printenv:
 	@echo CAMLOPTC =	$(CAMLOPTC)
 	@echo CAMLP4LIB =	$(CAMLP4LIB)
 
-Makefile: Make
-	mv -f Makefile Makefile.bak
-	$(COQBIN)coq_makefile -f Make -o Makefile
-
-
 -include $(VFILES:.v=.v.d)
 .SECONDARY: $(VFILES:.v=.v.d)
 
