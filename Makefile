@@ -88,7 +88,8 @@ VIFILES:=$(VFILES:.v=.vi)
 GFILES:=$(VFILES:.v=.g)
 HTMLFILES:=$(VFILES:.v=.html)
 GHTMLFILES:=$(VFILES:.v=.g.html)
-COQDOCFLAGS:=-utf8 --no-index --title 'yoshihiro503' --short -toc -html
+COQDOCFLAGS:=-utf8 --no-index --title 'yoshihiro503' --short -toc -html \
+	--with-header header.html --with-footer footer.html
 all: $(VOFILES) 
 spec: $(VIFILES)
 
