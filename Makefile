@@ -98,10 +98,12 @@ gallina: $(GFILES)
 html: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
 	$(COQDOC) $(COQDOCFLAGS) $(COQDOCLIBS) -d html $(VFILES)
+	cp style.css html/
 
 gallinahtml: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
-	$(COQDOC) -toc -html -g $(COQDOCLIBS) -d html $(VFILES)
+	$(COQDOC) $(COQDOCFLAGS) -g $(COQDOCLIBS) -d html $(VFILES)
+	cp style.css html/
 
 all.ps: $(VFILES)
 	$(COQDOC) -toc -ps $(COQDOCLIBS) -o $@ `$(COQDEP) -sort -suffix .v $(VFILES)`
