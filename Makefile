@@ -100,6 +100,7 @@ html: $(GLOBFILES) $(VFILES)
 	$(COQDOC) $(COQDOCFLAGS) $(COQDOCLIBS) -d html $(VFILES)
 	cp style.css html/
 	cp html/home_en.html html/index.html
+	cp -r statics/* html/
 
 gallinahtml: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
