@@ -259,35 +259,33 @@ var Stage = $hxClasses["Stage"] = function(stageCanvas,scoreboard) {
 		image.src = "img" + "/" + name + ".png";
 		image.dataset.name = name;
 	}
-	var touchStart = function(isMouse) {
-		return function(e) {
-			e.preventDefault();
-			var p = me.getPoint(e);
-			me.lastX = p[0];
-			me.lastY = p[1];
-			if(me.isGameOver()) me.initialize();
-		};
+	var touchStart = function(e) {
+		e.preventDefault();
+		var p = me.getPoint(e);
+		me.lastX = p[0];
+		me.lastY = p[1];
+		if(me.isGameOver()) me.initialize();
 	};
 	var body = js.Lib.document.body;
-	body.onmousedown = touchStart(true);
-	var touchMove = function(isMouse) {
-		return function(e) {
-			e.preventDefault();
-			var p = me.getPoint(e);
-			if(me.isGaming() && me.lastX != -1) {
-				var ship = me.ship;
-				ship.x += (p[0] - me.lastX) * 2.5 | 0;
-				ship.y += (p[1] - me.lastY) * 3.0 | 0;
-				ship.x = Math.max(ship.x,0);
-				ship.x = Math.min(ship.x,320);
-				ship.y = Math.max(ship.y,0);
-				ship.y = Math.min(ship.y,480);
-			}
-			me.lastX = p[0];
-			me.lastY = p[1];
-		};
+	body.addEventListener("mousedown",touchStart);
+	body.addEventListener("touchstart",touchStart);
+	var touchMove = function(e) {
+		e.preventDefault();
+		var p = me.getPoint(e);
+		if(me.isGaming() && me.lastX != -1) {
+			var ship = me.ship;
+			ship.x += (p[0] - me.lastX) * 2.5 | 0;
+			ship.y += (p[1] - me.lastY) * 3.0 | 0;
+			ship.x = Math.max(ship.x,0);
+			ship.x = Math.min(ship.x,320);
+			ship.y = Math.max(ship.y,0);
+			ship.y = Math.min(ship.y,480);
+		}
+		me.lastX = p[0];
+		me.lastY = p[1];
 	};
-	body.onmousemove = touchMove(true);
+	body.addEventListener("mousemove",touchMove);
+	body.addEventListener("touchmove",touchMove);
 };
 Stage.__name__ = ["Stage"];
 Stage.setTimeout = function(ff,t) {
@@ -454,9 +452,16 @@ Stage.prototype = {
 	,getPoint: function(e) {
 		var px = 0;
 		var py = 0;
-		var me = e;
-		px = me.clientX;
-		py = me.clientY;
+		haxe.Log.trace(e.type,{ fileName : "Main.hx", lineNumber : 519, className : "Stage", methodName : "getPoint"});
+		if(e.type == "mousedown" || e.type == "mousemove") {
+			var me = e;
+			px = me.clientX;
+			py = me.clientY;
+		} else {
+			var te = e;
+			px = te.touches[0].pageX;
+			py = te.touches[0].pageY;
+		}
 		return [px,py];
 	}
 	,start: null
@@ -538,6 +543,18 @@ StringBuf.prototype = {
 	}
 	,b: null
 	,__class__: StringBuf
+}
+var haxe = haxe || {}
+haxe.Log = $hxClasses["haxe.Log"] = function() { }
+haxe.Log.__name__ = ["haxe","Log"];
+haxe.Log.trace = function(v,infos) {
+	js.Boot.__trace(v,infos);
+}
+haxe.Log.clear = function() {
+	js.Boot.__clear_trace();
+}
+haxe.Log.prototype = {
+	__class__: haxe.Log
 }
 js.Boot = $hxClasses["js.Boot"] = function() { }
 js.Boot.__name__ = ["js","Boot"];
