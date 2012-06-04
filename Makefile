@@ -44,7 +44,7 @@ COQSRCLIBS:=-I $(COQLIB)/kernel -I $(COQLIB)/lib \
   -I $(COQLIB)/plugins/subtac/test \
   -I $(COQLIB)/plugins/syntax \
   -I $(COQLIB)/plugins/xml
-COQLIBS:=-I . 
+COQLIBS:=-I . -I src
 COQDOCLIBS:=
 
 ##########################
