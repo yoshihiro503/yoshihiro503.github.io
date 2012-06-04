@@ -1,4 +1,9 @@
 (**
+   #<a href="home_en.html">English</a>,
+    <a href="home_ja.html">日本語</a>
+   #
+*)
+(**
    * Yoshihiro Imai
 
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
