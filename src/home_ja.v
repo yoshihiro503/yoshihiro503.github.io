@@ -5,7 +5,10 @@
 *)
 (**
    * 今井 宜洋
+   - #<a href="http://www.itpl.co.jp/en/">(有)ITプランニング</a>#のソフトウェアエンジニア
+   - #<a href="http://www.topse.jp/lecturers">TopSEの講師</a>#
 
+   * 連絡先
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
    - Google+: #<a href="http://gplus.to/yoshihiro503">yoshihiro503</a>#
    - Blog: #<a href="http://d.hatena.ne.jp/yoshihiro503">id:yoshihiro503</a>#
@@ -22,11 +25,11 @@
    * 発表、講演
    - 2007 Leightweight Language 魂
    - 2008 Leightweight Language Future
-   - 2009 #<a href="">オープンソースカンファレンス</a>#
-   - 2010 #<a href="">Coq庵</a>#
-   - 2011 #<a href="">QCon Tokyo 2011</a>#
+   - 2009 #<a href="http://www.ospn.jp/osc2008-nagoya/">オープンソースカンファレンス</a>#
+   - 2010 #<a href="http://coq.g.hatena.ne.jp/keyword/Coq%E5%BA%B5">Coq庵</a>#
+   - 2011 #<a href="http://qcontokyo.com/tokyo-2011/">QCon Tokyo 2011</a>#
    - 2011 #<a href="http://topse.or.jp/docs/?q=node/26">Coq チュートリアル - Top SE</a>#
-   - 2011 特殊研究1 @京都大学 情報科学研究科
+   - 2011 特殊研究1 at #<a href="http://www.kyoto-u.ac.jp/ja">京都大学 情報科学研究科</a>#
    - 2011 #<a href="http://www.cshe.nagoya-u.ac.jp/service/grad/math_120127.html">名古屋大学キャリアアップセミナー</a>#
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq 特別講義 - Top SE</a>#
    - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML名古屋</a>#

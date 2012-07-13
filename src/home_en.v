@@ -5,7 +5,10 @@
 *)
 (**
    * Yoshihiro Imai
+   - Software engineer and software prover at #<a href="http://www.itpl.co.jp/en/">IT Planning, Inc</a>#
+   - #<a href="http://www.topse.jp/lecturers">Teacher at TopSE</a>#
 
+   * Contact
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
    - Google+: #<a href="http://gplus.to/yoshihiro503">yoshihiro503</a>#
    - Blog: #<a href="http://d.hatena.ne.jp/yoshihiro503">id:yoshihiro503</a>#
@@ -22,11 +25,11 @@
    * Talks & Lectures
    - 2007 Leightweight Language Spirit
    - 2008 Leightweight Language Future
-   - 2009 #<a href="">Open Source Conference</a>#
-   - 2010 #<a href="">Coq un</a>#
-   - 2011 #<a href="">QCon Tokyo 2011</a>#
+   - 2009 #<a href="http://www.ospn.jp/osc2008-nagoya/">Open Source Conference</a>#
+   - 2010 #<a href="http://coq.g.hatena.ne.jp/keyword/Coq%E5%BA%B5">Coq un</a>#
+   - 2011 #<a href="http://qcontokyo.com/tokyo-2011/">QCon Tokyo 2011</a>#
    - 2011 #<a href="http://topse.or.jp/docs/?q=node/26">Coq tutorial - Top SE</a>#
-   - 2011 Advanced Study @Kyoto-univ
+   - 2011 Advanced Study at #<a href="http://www.kyoto-u.ac.jp/en">Kyoto University</a>#
    - 2011 #<a href="http://www.cshe.nagoya-u.ac.jp/service/grad/math_120127.html">Career up Seminar</a>#
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq special seminar - Top SE</a>#
    - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML Nagoya</a>#
