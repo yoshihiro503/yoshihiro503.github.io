@@ -33,6 +33,7 @@
    - 2011 #<a href="http://www.cshe.nagoya-u.ac.jp/service/grad/math_120127.html">名古屋大学キャリアアップセミナー</a>#
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq 特別講義 - Top SE</a>#
    - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML名古屋</a>#
+   - 2012 #<a href="http://topse.or.jp/docs/?q=node/41">Scalaで学ぶSEのための実践的関数型言語入門 - Top SE</a>#
 
    * 学会委員等
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">

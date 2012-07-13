@@ -33,6 +33,7 @@
    - 2011 #<a href="http://www.cshe.nagoya-u.ac.jp/service/grad/math_120127.html">Career up Seminar</a>#
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq special seminar - Top SE</a>#
    - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML Nagoya</a>#
+   - 2012 #<a href="http://topse.or.jp/docs/?q=node/41">Scala seminar - Top SE</a>#
 
    * Academic Activity
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
