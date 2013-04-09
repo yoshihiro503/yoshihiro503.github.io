@@ -1,12 +1,24 @@
 (**
-   #<a href="home_en.html">English</a>,
-    <a href="home_ja.html">日本語</a>
-   #
+      #<ul class="breadcrumb">
+        <li class="">
+          <a href="home_en.html">
+            English
+          </a>
+        </li>
+        <span class="divider">
+          /
+        </span>
+        <li class="">
+          <a href="home_ja.html">
+            日本語
+          </a>
+        </li>
+      </ul>#
 *)
 (**
    * Yoshihiro Imai
    - Software engineer and software prover at #<a href="http://www.itpl.co.jp/en/">IT Planning, Inc</a>#
-   - #<a href="http://www.topse.jp/lecturers">Teacher at TopSE</a>#
+   - #<a href="http://www.topse.jp/lecturers">Part-time teacher at TopSE</a>#
 
    * Contact
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#

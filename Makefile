@@ -98,7 +98,6 @@ gallina: $(GFILES)
 html: $(GLOBFILES) $(VFILES)
 	- mkdir -p html
 	$(COQDOC) $(COQDOCFLAGS) $(COQDOCLIBS) -d html $(VFILES)
-	cp style.css html/
 	cp html/home_en.html html/index.html
 	cp -r statics/* html/
 

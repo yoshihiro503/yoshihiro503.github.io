@@ -1,7 +1,19 @@
 (**
-   #<a href="home_en.html">English</a>,
-    <a href="home_ja.html">日本語</a>
-   #
+      #<ul class="breadcrumb">
+        <li class="">
+          <a href="home_en.html">
+            English
+          </a>
+        </li>
+        <span class="divider">
+          /
+        </span>
+        <li class="">
+          <a href="home_ja.html">
+            日本語
+          </a>
+        </li>
+      </ul>#
 *)
 (**
    * 今井 宜洋
