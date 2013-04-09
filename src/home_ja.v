@@ -21,10 +21,8 @@
    - #<a href="http://www.topse.jp/lecturers">TopSEの講師</a>#
 
    * 連絡先
+   - E-mail: y.imai at ocaml.jp
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
-   - Google+: #<a href="http://gplus.to/yoshihiro503">yoshihiro503</a>#
-   - Blog: #<a href="http://d.hatena.ne.jp/yoshihiro503">id:yoshihiro503</a>#
-   - facebook: #<a href="http://facebook.com/yosh.imai">Yoshihiro Imai</a>#
 
    * ソフトウェア
    - #<a href="http://proofcafe.org/wiki/ocamltter">ocamltter</a>#
