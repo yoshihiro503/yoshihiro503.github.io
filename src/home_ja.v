@@ -47,9 +47,7 @@
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq 特別講義 - Top SE</a>#
    - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML名古屋</a>#
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/41">Scalaで学ぶSEのための実践的関数型言語入門 - Top SE</a>#
-
-   - 2012 #<a href="http://cfv.jp/cvs/event/workshop/2012/09/index.html">[
-関数型プログラミング言語と証明支援器を使った金融情報システムの開発について」 第3回形式手法の産業応用ワークショップ</a>#
+   - 2012 #<a href="http://cfv.jp/cvs/event/workshop/2012/09/index.html">「関数型プログラミング言語と証明支援器を使った金融情報システムの開発について」 第3回形式手法の産業応用ワークショップ</a>#
    - 2014 #<a href="http://proofcafe.org/wiki/StartSsreflect">「なぜCoqは重要か」 スタートSsreflect</a>#
    - 2014 #<a href="http://imi.kyushu-u.ac.jp/lasm/tpp2014/index_ja.html">「Coqを使ったデジタルデータ放送におけるストリームデータ処理の形式化と検証」 高信頼な理論と実装のための定理証明および定理証明器</a>#
 
