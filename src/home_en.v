@@ -47,6 +47,9 @@
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq special seminar - Top SE</a>#
    - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML Nagoya</a>#
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/41">Scala seminar - Top SE</a>#
+   - 2012 #<a href="http://cfv.jp/cvs/event/workshop/2012/09/index.html">Workshops on Industrial Applications of Formal Methods</a>#
+   - 2014 #<a href="http://proofcafe.org/wiki/StartSsreflect">Start Ssreflect</a>#
+   - 2014 #<a href="http://imi.kyushu-u.ac.jp/lasm/tpp2014/index.html">Theorem proving and provers for reliable theory and implementations</a>#
 
    * Academic Activity
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
