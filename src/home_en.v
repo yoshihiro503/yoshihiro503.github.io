@@ -19,6 +19,7 @@
    * Yoshihiro Imai
    - Software engineer and software prover at #<a href="http://www.itpl.co.jp/en/">IT Planning, Inc</a>#
    - #<a href="http://www.topse.jp/lecturers">Part-time teacher at TopSE</a>#
+   - Visiting associate professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
 
    * Contact
    - E-mail: y.imai at ocaml.jp

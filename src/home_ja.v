@@ -19,6 +19,7 @@
    * 今井 宜洋
    - #<a href="http://www.itpl.co.jp/en/">(有)ITプランニング</a>#のソフトウェアエンジニア
    - #<a href="http://www.topse.jp/lecturers">TopSEの講師</a>#
+   - #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員准教授
 
    * 連絡先
    - E-mail: y.imai at ocaml.jp
