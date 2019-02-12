@@ -1,0 +1,49 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: eldesh/coq:8.8.2
+    steps:
+      - checkout
+      - run: |
+          source ~/.profile
+          ./configure.sh
+          make html
+      - run: |
+          cp -r statics/* html/
+          cp html/home_en.html html/index.html
+      - persist_to_workspace:
+          root: html
+          paths: .
+  docs-deploy:
+    docker:
+      - image: node:8.10.0
+    steps:
+      - checkout
+      - attach_workspace:
+          at: html
+      - run:
+          name: Install and configure dependencies
+          command: |
+            npm install -g --silent gh-pages@2.0.1
+            git config user.email "ci-build@example.com"
+            git config user.name "ci-build"
+      - run: ls -la
+      - add_ssh_keys:
+          fingerprints:
+            - "ac:24:9e:64:a2:31:3e:39:6b:c8:6b:ce:92:eb:1b:c1"
+      - run:
+          name: Deploy docs to gh-pages branch
+          command: gh-pages --message "[skip ci] doc upload" --dist html
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+      - docs-deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
