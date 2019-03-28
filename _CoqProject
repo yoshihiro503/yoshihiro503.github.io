@@ -1,3 +1,0 @@
-COQDOCFLAGS = "-utf8 --no-index --title 'yoshihiro503' --short -toc -html --with-header header.html --with-footer footer.html"
-src/home_ja.v
-src/home_en.v
