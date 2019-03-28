@@ -50,6 +50,12 @@
    - 2012 #<a href="http://cfv.jp/cvs/event/workshop/2012/09/index.html">Workshops on Industrial Applications of Formal Methods</a>#
    - 2014 #<a href="http://proofcafe.org/wiki/StartSsreflect">Start Ssreflect</a>#
    - 2014 #<a href="http://imi.kyushu-u.ac.jp/lasm/tpp2014/index.html">Theorem proving and provers for reliable theory and implementations</a>#
+   - 2014 #<a href="http://proofcafe.org/~yoshihiro503/slides/CoqBroadcast.pdf"> A Coq Application in a Broadcast System</a># - Proof Summit 2014
+   - 2016 #<a href="http://proofcafe.org/~yoshihiro503/slides/nlnagoya_yoshihiro503.pdf">Base 常用漢字e ncoding with geNeraLized Base-N encoding</a># - NL Nagoya
+   - 2017 #<a href="http://proofcafe.org/~yoshihiro503/slides/proofsummit2017/hajimete_coq.html">Coq for beginners</a># - Proof Summit 2017
+   - 2017 #<a href="http://proofcafe.org/~yoshihiro503/slides/ngk2017b/tenshoku.html">My career change</a># - NGK2017b
+   - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">20th Workshop on Programming and Programming Languages</a>#
+   - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">Proofs of niconico</a># - Proof Summit 2018
 
    * Academic Activity
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">

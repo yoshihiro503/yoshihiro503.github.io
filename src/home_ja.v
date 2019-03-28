@@ -44,14 +44,19 @@
    - 2011 #<a href="http://qcontokyo.com/tokyo-2011/">「形式手法の現在と実開発への適用可能性」 QCon Tokyo 2011</a>#
    - 2011 #<a href="http://topse.or.jp/docs/?q=node/26">Coq チュートリアル - Top SE</a>#
    - 2011 特殊研究1 at #<a href="http://www.kyoto-u.ac.jp/ja">京都大学 情報科学研究科</a>#
-   - 2011 #<a href="http://www.cshe.nagoya-u.ac.jp/service/grad/math_120127.html">名古屋大学キャリアアップセミナー</a>#
+   - 2011 #<a href="http://www.cshe.nagoya-u.ac.jp/service/grad/math_120127.html">高信頼ソフトウェア開発における数学</a># - 名古屋大学キャリアアップセミナー
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/36">Coq 特別講義 - Top SE</a>#
-   - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">ML名古屋</a>#
+   - 2012 #<a href="http://proofcafe.org/~yoshihiro503/mlnagoya.pdf">The Algorithm M'_annot for Coq Extractionto Statically Typed Languages without Type Inference</a># - ML名古屋
    - 2012 #<a href="http://topse.or.jp/docs/?q=node/41">Scalaで学ぶSEのための実践的関数型言語入門 - Top SE</a>#
-   - 2012 #<a href="http://cfv.jp/cvs/event/workshop/2012/09/index.html">「関数型プログラミング言語と証明支援器を使った金融情報システムの開発について」 第3回形式手法の産業応用ワークショップ</a>#
+   - 2012 #<a href="http://cfv.jp/cvs/event/workshop/2012/09/index.html">「関数型プログラミング言語と証明支援器を使った金融情報システムの開発について」</a># - 第3回形式手法の産業応用ワークショップ
    - 2014 #<a href="http://proofcafe.org/wiki/StartSsreflect">「なぜCoqは重要か」 スタートSsreflect</a>#
    - 2014 #<a href="http://imi.kyushu-u.ac.jp/lasm/tpp2014/index_ja.html">「Coqを使ったデジタルデータ放送におけるストリームデータ処理の形式化と検証」 高信頼な理論と実装のための定理証明および定理証明器</a>#
-
+   - 2014 #<a href="http://proofcafe.org/~yoshihiro503/slides/CoqBroadcast.pdf"> A Coq Application in a Broadcast System</a># - Proof Summit 2014
+   - 2016 #<a href="http://proofcafe.org/~yoshihiro503/slides/nlnagoya_yoshihiro503.pdf">Base 常用漢字e ncoding with geNeraLized Base-N encoding</a># - NL名古屋
+   - 2017 #<a href="http://proofcafe.org/~yoshihiro503/slides/proofsummit2017/hajimete_coq.html">初めて学ぶCoq</a># - Proof Summit 2017
+   - 2017 #<a href="http://proofcafe.org/~yoshihiro503/slides/ngk2017b/tenshoku.html">転職してみた</a># - 名古屋合同懇親会2017
+   - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">生放送ストリーム中継システムのCoqによる形式化と検証 - 第20回プログラミングおよびプログラミング言語ワークショップ</a>#
+   - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">ニコニコをCoqで証明してみた</a># - Proof Summit 2018
 
    * 学会委員等
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
