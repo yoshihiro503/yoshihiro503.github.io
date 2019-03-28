@@ -58,8 +58,9 @@
    - #<a href="http://www.ipsj.or.jp/09sig/kaikoku/2010/PRO83.html">PRO83</a>#
 
    * Study Circle Membership
+   - #<a href="https://coqtokyo.slack.com/">CoqTokyo</a>#
    - #<a href="http://proofcafe.org/wiki/">ProofCafe</a>#
-   - #<a href="http://www.itpl.co.jp/ocaml-nagoya/">ocaml-nagoya</a>#
+   - #<a href="http://proofcafe.org/ocaml-nagoya/">ocaml-nagoya</a>#
    - #<a href="http://nagoyascala.yoshihiro503.cloudbees.net/">Nagoya Scala</a>#
    - #<a href="http://proofcafe.org/doehas/">Doerya Haskell</a>#
    - #<a href="http://proofcafe.org/instiki/kctnagoya/show/HomePage">KCT Nagoya</a>#

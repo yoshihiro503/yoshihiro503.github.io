@@ -60,8 +60,9 @@
    - #<a href="http://www.ipsj.or.jp/09sig/kaikoku/2010/PRO83.html">第83回 情報処理学会</a>#
 
    * 参加している技術勉強会
+   - #<a href="https://coqtokyo.slack.com/">CoqTokyo</a>#
    - #<a href="http://proofcafe.org/wiki/">ProofCafe</a>#
-   - #<a href="http://www.itpl.co.jp/ocaml-nagoya/">ocaml-nagoya</a>#
+   - #<a href="http://proofcafe.org/ocaml-nagoya/">ocaml-nagoya</a>#
    - #<a href="http://nagoyascala.yoshihiro503.cloudbees.net/">名古屋Scala</a>#
    - #<a href="http://proofcafe.org/doehas/">どえりゃあHaskell</a>#
    - #<a href="http://proofcafe.org/instiki/kctnagoya/show/HomePage">休日カフェタイム</a>#
