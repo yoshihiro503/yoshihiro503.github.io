@@ -22,7 +22,7 @@
    - Visiting associate professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
 
    * Contact
-   - E-mail: y.imai at ocaml.jp
+   - E-mail: yoshihiro503 at proofcafe.org
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
 
    * Software

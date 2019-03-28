@@ -22,7 +22,7 @@
    - #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員准教授
 
    * 連絡先
-   - E-mail: y.imai at ocaml.jp
+   - E-mail: yoshihiro503 at proofcafe.org
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
 
    * ソフトウェア
