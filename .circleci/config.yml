@@ -34,7 +34,7 @@ jobs:
             - "ac:24:9e:64:a2:31:3e:39:6b:c8:6b:ce:92:eb:1b:c1"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --message "[skip ci] doc upload" --dist html
+          command: gh-pages --message "[skip ci] doc upload" --branch master --dist html
 
 workflows:
   version: 2
@@ -46,4 +46,4 @@ workflows:
             - build
           filters:
             branches:
-              only: master
+              only: page_source
