@@ -17,25 +17,31 @@
 *)
 (**
    * Yoshihiro Imai
-   - Software engineer and software prover at #<a href="http://dwango.co.jp/">DWANGO Co., Ltd.</a>#
-   - #<a href="http://www.topse.jp/lecturers">Part-time teacher at TopSE</a>#
-   - Visiting associate professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
 
-   * Contact
+   - Proof Engineer using Coq
+   - Software Engineer using OCaml and Scala
+
+   ** Jobs
+   - (2017.04 ~ now) Expert Engineer at #<a href="http://dwango.co.jp/">DWANGO Co., Ltd.</a>#
+   - (2012 ~ now) #<a href="http://www.topse.jp/lecturers">Part-time teacher at TopSE</a>#
+   - (2016, 2017, 2019) Visiting associate professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
+   - (2007.04 ~ 2017.02) Software Engineer at IT Planning, Inc
+
+   ** Contact
    - E-mail: yoshihiro503 at proofcafe.org
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
 
-   * Software
+   ** Software
    - #<a href="http://proofcafe.org/wiki/ocamltter">ocamltter</a>#
    - #<a href="http://proofcafe.org/wiki/Coq2Scala">coq2scala</a>#
 
-   * Books
+   ** Books
 
    #<iframe src="https://rcm-jp.amazon.co.jp/e/cm?t=proofcafe-22&o=9&p=8&l=as1&asins=4839923116&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
    <iframe src="https://rcm-jp.amazon.co.jp/e/cm?t=proofcafe-22&o=9&p=8&l=as1&asins=4274069117&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>#
 
-   * Talks & Lectures
+   ** Talks & Lectures
    - 2007 Leightweight Language Spirit
    - 2008 Leightweight Language Future
    - 2009 #<a href="http://www.ospn.jp/osc2008-nagoya/">Open Source Conference</a>#
@@ -57,13 +63,13 @@
    - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">20th Workshop on Programming and Programming Languages</a>#
    - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">Proofs of niconico</a># - Proof Summit 2018
 
-   * Academic Activity
+   ** Academic Activity
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
    Programming and Programming Languages 2011
    </a># (program committee)
    - #<a href="http://www.ipsj.or.jp/09sig/kaikoku/2010/PRO83.html">PRO83</a>#
 
-   * Study Circle Membership
+   ** Study Circle Membership
    - #<a href="https://coqtokyo.slack.com/">CoqTokyo</a>#
    - #<a href="http://proofcafe.org/wiki/">ProofCafe</a>#
    - #<a href="http://proofcafe.org/ocaml-nagoya/">ocaml-nagoya</a>#

@@ -17,25 +17,30 @@
 *)
 (**
    * 今井 宜洋
-   - #<a href="http://dwango.co.jp/">株式会社ドワンゴ</a>#のソフトウェアエンジニア
-   - #<a href="http://www.topse.jp/lecturers">TopSEの講師</a>#
-   - #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員准教授
+   - 証明エンジニア
+   - ソフトウェアエンジニア
 
-   * 連絡先
+   ** 仕事
+   - (2017.04 ~ 今) #<a href="http://dwango.co.jp/">株式会社ドワンゴ</a>#のソフトウェアエンジニア
+   - (2012 ~ 今) #<a href="http://www.topse.jp/lecturers">TopSEの講師</a>#
+   - (2016, 2017, 2019) #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員准教授
+   - (2007.04 ~ 2017.02) 有限会社ITプランニングのソフトウェアエンジニア
+
+   ** 連絡先
    - E-mail: yoshihiro503 at proofcafe.org
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
 
-   * ソフトウェア
+   ** ソフトウェア
    - #<a href="http://proofcafe.org/wiki/ocamltter">ocamltter</a>#
    - #<a href="http://proofcafe.org/wiki/Coq2Scala">coq2scala</a>#
 
-   * 著書
+   ** 著書
 
    #<iframe src="https://rcm-jp.amazon.co.jp/e/cm?t=proofcafe-22&o=9&p=8&l=as1&asins=4839923116&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
    <iframe src="https://rcm-jp.amazon.co.jp/e/cm?t=proofcafe-22&o=9&p=8&l=as1&asins=4274069117&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>#
 
-   * 発表、講演
+   ** 発表、講演
    - 2007 「Coq、定理証明という選択肢」 Lightweight Language 魂
    - 2008 「超未来言語 Gallina」 Lightweight Language Future
    - 2009 #<a href="http://www.ospn.jp/osc2008-nagoya/">「OCamlでらくらく関数型プログラミング」 オープンソースカンファレンスNagoya</a>#
@@ -58,13 +63,13 @@
    - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">生放送ストリーム中継システムのCoqによる形式化と検証 - 第20回プログラミングおよびプログラミング言語ワークショップ</a>#
    - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">ニコニコをCoqで証明してみた</a># - Proof Summit 2018
 
-   * 学会委員等
+   ** 学会委員等
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
    プログラミングおよびプログラミング言語ワークショップ 2011
    </a># (プログラミング委員)
    - #<a href="http://www.ipsj.or.jp/09sig/kaikoku/2010/PRO83.html">第83回 情報処理学会</a>#
 
-   * 参加している技術勉強会
+   ** 参加している技術勉強会
    - #<a href="https://coqtokyo.slack.com/">CoqTokyo</a>#
    - #<a href="http://proofcafe.org/wiki/">ProofCafe</a>#
    - #<a href="http://proofcafe.org/ocaml-nagoya/">ocaml-nagoya</a>#
