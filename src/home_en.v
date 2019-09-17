@@ -22,7 +22,8 @@
    - Software Engineer using OCaml and Scala
 
    ** Jobs
-   - (2017.04 ~ now) Expert Engineer at #<a href="http://dwango.co.jp/">DWANGO Co., Ltd.</a>#
+   - (2019.09 ~ now) CEO of #<a href="https://proof-ninja.co.jp/">proof ninja, Inc</a>#
+   - (2017.04 ~ 2019.08) Expert Engineer at #<a href="http://dwango.co.jp/">DWANGO Co., Ltd.</a>#
    - (2012 ~ now) #<a href="http://www.topse.jp/lecturers">Part-time teacher at TopSE</a>#
    - (2016, 2017, 2019) Visiting associate professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
    - (2007.04 ~ 2017.02) Software Engineer at IT Planning, Inc

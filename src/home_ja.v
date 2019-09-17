@@ -21,7 +21,8 @@
    - ソフトウェアエンジニア
 
    ** 仕事
-   - (2017.04 ~ 今) #<a href="http://dwango.co.jp/">株式会社ドワンゴ</a>#のソフトウェアエンジニア
+   - (2019.09 ~ now) #<a href="https://proof-ninja.co.jp/">株式会社proof ninja</a># 代表取締役社長
+   - (2017.04 ~ 2019.08) #<a href="http://dwango.co.jp/">株式会社ドワンゴ</a>#のソフトウェアエンジニア
    - (2012 ~ 今) #<a href="http://www.topse.jp/lecturers">TopSEの講師</a>#
    - (2016, 2017, 2019) #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員准教授
    - (2007.04 ~ 2017.02) 有限会社ITプランニングのソフトウェアエンジニア
