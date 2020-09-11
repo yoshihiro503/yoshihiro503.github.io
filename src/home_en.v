@@ -23,9 +23,10 @@
 
    ** Jobs
    - (2019.09 ~ now) CEO of #<a href="https://proof-ninja.co.jp/">proof ninja, Inc</a>#
+   - (2020 ~ now) Visiting Professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
    - (2017.04 ~ 2019.08) Expert Engineer at #<a href="http://dwango.co.jp/">DWANGO Co., Ltd.</a>#
    - (2012 ~ now) #<a href="https://www.topse.jp/ja/curriculum-teachers.html">Part-time teacher at TopSE</a>#
-   - (2016, 2017, 2019) Visiting associate professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
+   - (2016, 2017, 2019) Visiting Associate Professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
    - (2007.04 ~ 2017.02) Software Engineer at IT Planning, Inc
 
    ** Contact
