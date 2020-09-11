@@ -21,7 +21,7 @@
    - ソフトウェアエンジニア
 
    ** 仕事
-   - (2019.09 ~ now) #<a href="https://proof-ninja.co.jp/">株式会社proof ninja</a># 代表取締役社長
+   - (2019.09 ~ now) #<a href="https://proof-ninja.co.jp/">株式会社proof ninja</a># 設立、代表取締役 CEO 就任
    - (2020 ~ now) #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員教授
    - (2017.04 ~ 2019.08) #<a href="http://dwango.co.jp/">株式会社ドワンゴ</a>#のソフトウェアエンジニア
    - (2012 ~ 今) #<a href="https://www.topse.jp/ja/curriculum-teachers.html">TopSEの講師</a>#
