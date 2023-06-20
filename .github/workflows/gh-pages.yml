@@ -25,11 +25,17 @@ jobs:
         with:
           coq_version: 8.15
           ocaml_version: 4.14-flambda
-          
-      - name: Build
-        run: |
-          source ~/.profile
-          sh build.sh
+          before_script: |
+            startGroup "Workaround permission issue"
+              sudo chown -R coq:coq .
+            endGroup
+          script: |
+            startGroup "Build project"
+              coq_makefile -f _CoqProject -o Makefile
+              make -j2
+              make html
+              sh build.sh
+            endGroup
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
