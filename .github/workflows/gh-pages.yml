@@ -25,8 +25,8 @@ jobs:
         with:
           opam_file: 'folder/coq-proj.opam'
           coq_version: 8.15.2
-          ocaml_version: 4.14.0-flambda
-
+          ocaml_version: 4.14-flambda
+          
       - name: Build
         run: |
           source ~/.profile
