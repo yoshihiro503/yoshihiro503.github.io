@@ -4,7 +4,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - master
+      - page_source
   pull_request:
 
 jobs:
