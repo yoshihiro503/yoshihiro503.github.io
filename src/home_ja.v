@@ -23,6 +23,8 @@
    - ソフトウェアエンジニア
 
    ** 仕事
+   - (2022.11 ~ now) #<a href="https://www.dmm.com">合同会社DMM.com</a># 形式証明エンジニア
+   - (2022.09 ~ now) #<a href="https://www.digiarc.aist.go.jp/team/cctrt/">国立産業技術総合研究所 超分散トラスト研究チーム</a>#
    - (2019.09 ~ now) #<a href="https://proof-ninja.co.jp/">株式会社proof ninja</a># 設立、代表取締役 CEO 就任
    - (2020 ~ now) #<a href="http://www.nagoya-u.ac.jp/">名古屋大学</a># 客員教授
    - (2017.04 ~ 2019.08) #<a href="http://dwango.co.jp/">株式会社ドワンゴ</a>#のソフトウェアエンジニア
@@ -31,7 +33,7 @@
    - (2007.04 ~ 2017.02) 有限会社ITプランニングのソフトウェアエンジニア
 
    ** 連絡先
-   - E-mail: yoshihiro503 at proofcafe.org
+   - E-mail: y.imai at proof-ninja dot co.jp, y.imai at aist.go.jp, imai-yoshihiro at dmm.com
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
 
    ** ソフトウェア

@@ -24,6 +24,8 @@
    - Software Engineer using OCaml and Scala
 
    ** Jobs
+   - (2022.11 ~ now) #<a href="https://dmm-corp.com/company/">DMM.com</a># Formal Proof Engineer
+   - (2022.09 ~ now) #<a href="https://www.digiarc.aist.go.jp/en/team/cctrt/">AIST Continuum Computing Trustworthiness Research Team</a>#
    - (2019.09 ~ now) Founder and CEO of #<a href="https://proof-ninja.co.jp/">proof ninja, Inc</a>#
    - (2020 ~ now) Visiting Professor of #<a href="http://en.nagoya-u.ac.jp/">Nagoya university</a>#
    - (2017.04 ~ 2019.08) Expert Engineer at #<a href="http://dwango.co.jp/">DWANGO Co., Ltd.</a>#
@@ -32,7 +34,7 @@
    - (2007.04 ~ 2017.02) Software Engineer at IT Planning, Inc
 
    ** Contact
-   - E-mail: yoshihiro503 at proofcafe.org
+   - E-mail: y.imai at proof-ninja dot co.jp, y.imai at aist.go.jp, imai-yoshihiro at dmm.com
    - Twitter: #<a href="http://twitter.com/yoshihiro503">@yoshihiro503</a>#
 
    ** Software
