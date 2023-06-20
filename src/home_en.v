@@ -3,6 +3,7 @@
         <li class="">
           <a href="home_en.html">
             English
+            <i class="flag-icon flag-icon-gb"></i>
           </a>
         </li>
         <span class="divider">
@@ -11,6 +12,7 @@
         <li class="">
           <a href="home_ja.html">
             日本語
+            <i class="flag-icon flag-icon-jp"></i>
           </a>
         </li>
       </ul>#
