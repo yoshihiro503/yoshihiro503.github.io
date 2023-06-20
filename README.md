@@ -1,8 +1,6 @@
 Website
 ========
 
-[![CircleCI](https://circleci.com/gh/yoshihiro503/yoshihiro503.github.io.svg?style=svg)](https://circleci.com/gh/yoshihiro503/yoshihiro503.github.io)
-
 The Personal Website of Yoshihiro imai
 
 ## Remark
