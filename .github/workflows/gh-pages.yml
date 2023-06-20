@@ -24,7 +24,7 @@ jobs:
         uses: coq-community/docker-coq-action@v1
         with:
           opam_file: 'folder/coq-proj.opam'
-          coq_version: 8.15.2
+          coq_version: 8.15
           ocaml_version: 4.14-flambda
           
       - name: Build
