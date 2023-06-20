@@ -20,8 +20,12 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: eldesh/coq:8.8.2
+      - name: Coq
+        uses: coq-community/docker-coq-action@v1
+          with:
+            opam_file: 'folder/coq-proj.opam'
+            coq_version: 8.15.2
+            ocaml_version: 4.12.2
 
       - name: Build
         run: |
