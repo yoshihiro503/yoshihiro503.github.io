@@ -71,6 +71,8 @@
    - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">20th Workshop on Programming and Programming Languages</a>#
    - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">Proofs of niconico</a># - Proof Summit 2018
 
+   - 2024 #<a href="http://proofcafe.org/~yoshihiro503/slides/func_party_2024/funcparty_2024.html">blockchain programming with functional programming languages</a># - #<a href="https://nextbeat.connpass.com/event/305078/">第五回関数型プログラミング（仮）の会</a>#
+
    ** Academic Activity
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
    Programming and Programming Languages 2011

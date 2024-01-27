@@ -71,6 +71,8 @@
    - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">生放送ストリーム中継システムのCoqによる形式化と検証 - 第20回プログラミングおよびプログラミング言語ワークショップ</a>#
    - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">ニコニコをCoqで証明してみた</a># - Proof Summit 2018
 
+   - 2024 #<a href="http://proofcafe.org/~yoshihiro503/slides/func_party_2024/funcparty_2024.html">関数型でブロックチェーンプログラミング</a># - #<a href="https://nextbeat.connpass.com/event/305078/">第五回関数型プログラミング（仮）の会</a>#
+
    ** 学会委員等
    - #<a href="http://www.info.kochi-tech.ac.jp/ppl2011/">
    プログラミングおよびプログラミング言語ワークショップ 2011
