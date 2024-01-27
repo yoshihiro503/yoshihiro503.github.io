@@ -52,7 +52,7 @@
    - 2007 「Coq、定理証明という選択肢」 Lightweight Language 魂
    - 2008 「超未来言語 Gallina」 Lightweight Language Future
    - 2009 #<a href="http://www.ospn.jp/osc2008-nagoya/">「OCamlでらくらく関数型プログラミング」 オープンソースカンファレンスNagoya</a>#
-   - 2010 #<a href="http://isw3.kankyo-u.ac.jp/ppl2010/program.html">「システム開発実務への証明支援器Coqの適用」 第12回プログラミングおよびプログラミング言語ワークショップ</a>#
+   - 2010 #<a href="http://ppl.jssst.or.jp/ppl2010/program.html">「システム開発実務への証明支援器Coqの適用」 第12回プログラミングおよびプログラミング言語ワークショップ</a>#
    - 2010 #<a href="http://coq.g.hatena.ne.jp/keyword/Coq%E5%BA%B5">「はじめてのCoq」 Coq庵</a>#
    - 2011 #<a href="http://qcontokyo.com/tokyo-2011/">「形式手法の現在と実開発への適用可能性」 QCon Tokyo 2011</a>#
    - 2011 #<a href="http://topse.or.jp/docs/?q=node/26">Coq チュートリアル - Top SE</a>#

@@ -53,6 +53,7 @@
    - 2007 Leightweight Language Spirit
    - 2008 Leightweight Language Future
    - 2009 #<a href="http://www.ospn.jp/osc2008-nagoya/">Open Source Conference</a>#
+   - 2010 Applications of Coq, a proof assistant, to system development practices - #<a href="http://ppl.jssst.or.jp/ppl2010/program.html">The 12th Workshop on Programming and Programming Languages</a>#
    - 2010 #<a href="http://coq.g.hatena.ne.jp/keyword/Coq%E5%BA%B5">Coq un</a>#
    - 2011 #<a href="http://qcontokyo.com/tokyo-2011/">QCon Tokyo 2011</a>#
    - 2011 #<a href="http://topse.or.jp/docs/?q=node/26">Coq tutorial - Top SE</a>#
@@ -70,12 +71,10 @@
    - 2017 #<a href="http://proofcafe.org/~yoshihiro503/slides/ngk2017b/tenshoku.html">My career change</a># - NGK2017b
    - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">20th Workshop on Programming and Programming Languages</a>#
    - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">Proofs of niconico</a># - Proof Summit 2018
-
    - 2020 #<a href="http://proofcafe.org/~yoshihiro503/slides/ngk2020s/coqscaml.html">The world's safest financial transactions using functional programming</a># - #<a href="https://ngk2020s.netlify.app/">NGK2020s</a>#
    - 2021 #<a href="http://proofcafe.org/~yoshihiro503/slides/func_party_2021/slide.html">Blockchain Programming Proven with Functional Language OCaml and Formal Methods</a># - #<a href="https://opt.connpass.com/event/222709/">第一回関数型プログラミング（仮）の会</a>#
    - 2023 #<a href="">Introduction to Formal Proofs for Functional Programming Language Users</a># - #<a href="https://opt.connpass.com/event/272470/">第四回関数型プログラミング（仮）の会</a>#
    - 2023 Eliminating Bugs with Mathematical Proofs! Introduction to the Formal Method Coq - #<a href="https://seamoon.dmm.com/en/company/profile/">DM2C Studio Co., Ltd.</a># DMM.com web3 business operation study
-
    - 2024 #<a href="http://proofcafe.org/~yoshihiro503/slides/func_party_2024/funcparty_2024.html">blockchain programming with functional programming languages</a># - #<a href="https://nextbeat.connpass.com/event/305078/">第五回関数型プログラミング（仮）の会</a>#
 
    ** Academic Activity
