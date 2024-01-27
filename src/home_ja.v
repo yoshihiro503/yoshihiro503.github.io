@@ -70,7 +70,10 @@
    - 2017 #<a href="http://proofcafe.org/~yoshihiro503/slides/ngk2017b/tenshoku.html">転職してみた</a># - 名古屋合同懇親会2017
    - 2018 #<a href="https://jssst-ppl.org/workshop/2018/program.html">生放送ストリーム中継システムのCoqによる形式化と検証 - 第20回プログラミングおよびプログラミング言語ワークショップ</a>#
    - 2018 #<a href="https://niconare.nicovideo.jp/watch/kn3390">ニコニコをCoqで証明してみた</a># - Proof Summit 2018
-
+   - 2020 #<a href="http://proofcafe.org/~yoshihiro503/slides/ngk2020s/coqscaml.html">関数型で世界一安全なお金の取引</a># - #<a href="https://ngk2020s.netlify.app/">名古屋合同懇親会2020新年会</a>#
+   - 2021 #<a href="http://proofcafe.org/~yoshihiro503/slides/func_party_2021/slide.html">関数型言語OCamlと形式手法で証明されたブロックチェーンプログラミング</a># - #<a href="https://opt.connpass.com/event/222709/">第一回関数型プログラミング（仮）の会</a>#
+   - 2023 #<a href="">関数型言語使いのための形式証明入門</a># - #<a href="https://opt.connpass.com/event/272470/">第四回関数型プログラミング（仮）の会</a>#
+   - 2023 数学の証明でバグをなくす！？形式手法Coqの紹介 - #<a href="https://seamoon.dmm.com/company/profile/">株式会社DM2C Studio</a># DMM.com Web3事業部 勉強会
    - 2024 #<a href="http://proofcafe.org/~yoshihiro503/slides/func_party_2024/funcparty_2024.html">関数型でブロックチェーンプログラミング</a># - #<a href="https://nextbeat.connpass.com/event/305078/">第五回関数型プログラミング（仮）の会</a>#
 
    ** 学会委員等
